@@ -1,0 +1,27 @@
+.categories img {
+	width: 100px;
+}
+.categories-border {
+	border: 20px;
+}
+.card-shadow {
+	box-shadow: 0 25px 30px gray;
+	margin-top: 24px;
+}
+.card-footer-1 {
+	padding: 0.75rem 1.25rem;
+	/* background-color: rgba(0,0,0,.03);
+border-top: 1px solid rgba(0,0,0,.125); */
+}
+.orange-bg {
+	background-color: #fceae8;
+	border-radius: 10px;
+}
+.buy-now-btn {
+	background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+	color: #fff;
+	border: none;
+	border-radius: 8px;
+	padding: 9px 25px;
+	cursor: pointer;
+}
